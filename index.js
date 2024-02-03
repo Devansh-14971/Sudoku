@@ -13,7 +13,7 @@
 {% endfor %} */}
 
 const divEl = document.getElementById('main-obj')
-const Clicker = document.getElementById('Clicker')
+const Clicker = document.getElementById('clicker')
 Clicker.addEventListener("click",Generate())
 
 function Generate(){
