@@ -1,0 +1,21 @@
+body {
+    background-color: #eeeeee;
+        
+}
+
+button {
+    padding-left:2px;
+    padding-right:2px;
+    padding-top:1px;
+    padding-bottom:1px;
+    width:100px;
+    height: 100px;
+    border: 2px solid #dddddd;
+    border-radius: 1px;
+}
+
+#main-obj{
+    display: block;
+    margin: auto;
+}
+
